@@ -28,7 +28,8 @@ body {
   margin: 15px 0px;
 }
 
-h2 {
+h2,
+h4 {
   font-weight: 700;
 }
 
