@@ -1,0 +1,13 @@
+{
+    "name": "yerzhan/nis-student-council",
+    "description": "NIS Uralsk Student Council Web page",
+    "type": "webpage",
+    "license": "Proprietary",
+    "authors": [
+        {
+            "name": "Yerzhan Zhamashev",
+            "email": "yerzhanzhamash@gmail.com"
+        }
+    ],
+    "require": {}
+}
